@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**vianch/vianch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hi, I'm Janessa! I'm a web developer with a soft spot for UX/UI development](./images/github-readme-banner.png)
+
+🚀 I'm currently a full stack developer engineer at [TodayTix](https://www.todaytix.com/)<br/>
+💻 [https://vianch.com](https://vianch.com/)<br/>
+🐦 [https://twitter.com/vianch_tog](https://twitter.com/vianch_tog)
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on VIANCH.COM blog
+- 🌱 I’m currently learning apollo apollographql
+- 👯 I’m looking to collaborate on open software projects
+- 💬 Ask me about anything your want
+- 📫 How to reach me: [https://discord.com/invite/UVgXjgEXX4](discord)
+- ⚡ Fun fact: Nintendo fanboy / I have a dog called Mateo
