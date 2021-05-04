@@ -3,6 +3,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N74ADJR)
 
+<img align="right" height="225" src="./images/animation.gif?raw=true" alt="gif"/>
+
 ### About ☕
 - 🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)
 - 💻  [https://vianch.com](https://vianch.com/)
@@ -13,8 +15,6 @@
 - 💬  Ask me about anything you want
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
 - ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
-
-<img align="right" height="250" src="./images/animation.gif?raw=true" alt="gif"/>
 
 ### This week stats 📈
 
