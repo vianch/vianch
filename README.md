@@ -7,7 +7,7 @@
 
 ## About ☕
 
-- 🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)
+- 🚀  Full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)
 - 💻  [https://vianch.com](https://www.vianch.com/)
 - 🐦  [Twitter](https://twitter.com/vianch_tog)
 - 🔭  I’m currently working on VIANCH.COM blog
