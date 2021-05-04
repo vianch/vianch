@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 💬  Ask me about anything you want
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
 - ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
