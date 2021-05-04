@@ -3,7 +3,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N74ADJR)
 
-<img align="right" height="120px" src="./images/animation.gif" alt="ReactJS logo"/>
+<img align="right" height="250" src="./images/animation.gif" alt="ReactJS logo"/>
 
 - 🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)<br/>
 - 💻  [https://vianch.com](https://vianch.com/)<br/>
