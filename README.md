@@ -1,17 +1,26 @@
 ### Hi there 👋
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N74ADJR)
 
-- 🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)<br/>
-- 💻  [https://vianch.com](https://vianch.com/)<br/>
-- 🐦  [Twitter](https://twitter.com/vianch_tog)
-- 🔭  I’m currently working on VIANCH.COM blog
-- 🌱  I’m currently learning apollo graphql
-- 👯  I’m looking to collaborate on open software projects
-- 💬  Ask me about anything you want
-- 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
-- ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
-
-<img height="400px" src="./images/animation.gif" alt="ReactJS logo"/>
+<table border="0">
+ <tr>
+    <td>
+        <ul>
+          <li>🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)</li>
+          <li> 💻  [https://vianch.com](https://vianch.com/)</li>
+          <li>🐦  [Twitter](https://twitter.com/vianch_tog)</li>
+          <li>🔭  I’m currently working on VIANCH.COM blog</li>
+          <li>🌱  I’m currently learning apollo graphql</li>
+          <li> 👯  I’m looking to collaborate on open software projects</li>
+          <li> 💬  Ask me about anything you want</li>
+          <li> 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)</li>
+          <li> ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo</li>
+        </ul>
+    </td>
+ </tr>
+ <tr>
+    <td><img height="400px" src="./images/animation.gif" alt="ReactJS logo"/></td>
+ </tr>
+</table>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
