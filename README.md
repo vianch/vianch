@@ -5,7 +5,7 @@
 
 <img align="right" src="./images/animation.gif?raw=true" alt="gif"  height="300"/>
 
-### About ☕
+## About ☕
 
 - 🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)
 - 💻  [https://vianch.com](https://vianch.com/)
@@ -17,7 +17,7 @@
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
 - ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
 
-### This week stats 📈
+## This week stats 📈
 
 <!--START_SECTION:waka-->
 ```text
