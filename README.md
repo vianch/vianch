@@ -3,7 +3,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N74ADJR)
 
-<img align="right" height="225" src="./images/animation.gif?raw=true" alt="gif"/>
+<img align="right" src="./images/animation.gif?raw=true" alt="gif" width="250" height="225"/>
 
 ### About ☕
 - 🚀  I'm currently a full stack developer engineer at [TodayTix Group](https://www.todaytix.com/)
