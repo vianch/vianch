@@ -17,7 +17,7 @@
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
 - ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
 
-## This week stats 📈
+## Daily stats 📈
 
 <!--START_SECTION:waka-->
 ```text
