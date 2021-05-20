@@ -17,7 +17,9 @@
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
 - ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
 
-##  📈 Daily stats
+##  📈  Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vianch&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
 
 <!--START_SECTION:waka-->
 ```text
@@ -28,12 +30,6 @@ PHP          38 mins         ▓░░░░░░░░░░░░░░░░
 Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 <!--END_SECTION:waka-->
-
-## 🏭 Github Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vianch&show_icons=true&hide_border=true" alt="Stats" width="440" align="center">
-</div>
 
 ## 💻 Favorite tools
 
