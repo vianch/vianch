@@ -19,7 +19,7 @@
 
 ##  📈  Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vianch&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=vianch&show_icons=true&hide_border=true" alt="Stats" width="320" align="right">
 
 <!--START_SECTION:waka-->
 ```text
