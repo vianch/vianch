@@ -11,7 +11,7 @@
 - 💻  [https://vianch.com](https://www.vianch.com/)
 - 🐦  [Twitter](https://twitter.com/vianch_tog)
 - 🔭  I’m currently working on VIANCH.COM blog
-- 🌱  I’m currently learning apollo graphql
+- 🌱  I’m currently learning [hasura/graphql-engine](https://github.com/hasura/graphql-engine) 
 - 👯  I’m looking to collaborate on open software projects
 - 💬  Ask me about anything you want
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
