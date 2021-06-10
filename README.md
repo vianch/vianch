@@ -17,7 +17,7 @@
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
 - ⚡  🎮 Fun fact: Nintendo fanboy / 🐕 I have a dog called Mateo
 
-##  📈  Stats
+##  📈  Weekly statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=vianch&show_icons=true&hide_border=true" alt="Stats" width="330" align="left">
 
