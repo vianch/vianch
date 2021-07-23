@@ -23,7 +23,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash         1 min           ███████████░░░░░░░░░░░░░░   43.69 % 
+TypeScript   1 min           ████████▓░░░░░░░░░░░░░░░░   35.03 % 
 ```
 <!--END_SECTION:waka-->
 
