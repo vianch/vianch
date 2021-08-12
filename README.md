@@ -35,6 +35,6 @@ SCSS         31 mins         ▓░░░░░░░░░░░░░░░░
 ## 💻 Favorite tools
 
 <div align="center">
-<img height="50px" src="./images/react-atom.svg" alt="ReactJS logo"/> <img height="50px" src="./images/nextjs.png" alt="nextjs logo"/> <img height="50px" src="./images/Gatsby_Monogram.svg" alt="GatsbyJS logo"/> <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo"/> <img height="50px" src="./images/1200px-Typescript_logo_2020.svg.png" alt="typescript logo"/>
+<img height="50px" src="./images/react-atom.svg" alt="ReactJS logo"/> <img height="50px" src="./images/nestjs.svg" alt="NestJs logo"/> <img height="50px" src="./images/nextjs.png" alt="nextjs logo"/> <img height="50px" src="./images/Gatsby_Monogram.svg" alt="GatsbyJS logo"/> <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo"/> <img height="50px" src="./images/1200px-Typescript_logo_2020.svg.png" alt="typescript logo"/>
 <img height="50px" src="https://graphql.org/img/logo.svg" alt="GraphQL logo"/> <img height="50px" src="./images/nodejs.svg" alt="NodeJS logo"/>
 </div>
