@@ -25,12 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      4 hrs 32 mins   ████████████████████▓░░░░   82.72 %
-JavaScript      36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-Text            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Terraform       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript      3 hrs 51 mins   ███████████████████▓░░░░░   78.96 %
+Text            28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+JavaScript      27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Markdown        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-textmate        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+textmate        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
