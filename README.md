@@ -25,8 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text         8 mins          ████████████████████████▒   97.30 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+TypeScript       53 mins         ████████████████████████▓   98.99 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+tsconfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
