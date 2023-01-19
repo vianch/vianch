@@ -11,8 +11,8 @@
 - 💻  [https://vianch.com](https://www.vianch.com/)
 - 🐦  [Twitter](https://twitter.com/vianch_tog)
 - 🔭  I’m currently working on VIANCH.COM blog
-- 🌱  I’m currently learning [BUN](https://bun.sh/) / [PRISMA.IO](https://www.prisma.io/) / [NEXUS](https://nexusjs.org/)
-- 🌱  I’m currently [NestJS](https://nestjs.com/) 
+- 🌱  I’m currently learning [PRISMA.IO](https://www.prisma.io/) / [NEXUS](https://nexusjs.org/)
+- 🌱  I’m currently creating my 2023 portfolio
 - 👯  I’m looking to collaborate on open software projects
 - 💬  Ask me about anything you want
 - 📫  How to reach me: [discord](https://discord.com/invite/UVgXjgEXX4)
