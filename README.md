@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 24 mins  ██████████████████████▒░░   89.49 %
-Liquid       39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+TypeScript   8 hrs 8 mins    █████████████████████▓░░░   86.07 %
+Liquid       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
