@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       7 hrs 54 mins   ███████████████████████▒░   93.75 %
-.env file        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-TSConfig         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript       9 hrs 7 mins    ███████████████████████▓░   94.63 %
+.env file        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TSConfig         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
