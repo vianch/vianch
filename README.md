@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   41 mins         ████████████░░░░░░░░░░░░░   48.15 %
-JavaScript   32 mins         █████████▓░░░░░░░░░░░░░░░   38.17 %
-YAML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Makefile     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
