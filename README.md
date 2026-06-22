@@ -25,7 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust         29 mins               ██████████████████████░░░   88.26 %
+Git Config   3 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
